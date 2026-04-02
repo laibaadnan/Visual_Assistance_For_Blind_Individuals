@@ -21,7 +21,6 @@ This project is a visual assistance tool designed to help blind persons by detec
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Hammad-Khurshid/Visual_assistance_for_Blind_indivuals.git
    cd Visual_assistance_for_Blind_indivuals
 
 2. **Create a virtual environment**
