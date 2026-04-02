@@ -1,4 +1,4 @@
-**Visual_assistance_for_Blind_individuals**
+**Visual_assistance_for_Blind_individuals**  
 
 
 This project is a visual assistance tool designed to help blind persons by detecting real-time objects, calculating distances, and providing voice feedback. The tool uses Ultralytics for object detection, math for distance calculation, and pyttsx3 for text-to-speech feedback.
