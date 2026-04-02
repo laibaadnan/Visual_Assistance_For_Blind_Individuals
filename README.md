@@ -5,9 +5,9 @@ This project is a visual assistance tool designed to help blind persons by detec
 
 **Features**
 
-- **Real-time Object Detection**: Utilizes Ultralytics for detecting objects in real-time.
-- **Distance Calculation**: Calculates the distance to detected objects.
-- **Voice Feedback**: Provides audio feedback using pyttsx3 to inform the user of detected objects and their distances.
+- **Real-time Object Detection**:  Utilizes Ultralytics for detecting objects in real-time.
+- **Distance Calculation**:  Calculates the distance to detected objects.
+- **Voice Feedback**:  Provides audio feedback using pyttsx3 to inform the user of detected objects and their distances.
 
 **Requirements**
 
